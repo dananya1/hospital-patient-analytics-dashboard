@@ -38,7 +38,7 @@ This project is a multi-page Hospital Patient Analytics Dashboard developed usin
 
 ## Project Files
 - Power BI Dashboard (.pbix)
-- Dataset (.csv)
+- Dataset (.csv) Link: https://www.kaggle.com/datasets/prasad22/healthcare-dataset
 - Dashboard Screenshots
 
 ## Dashboard Preview
